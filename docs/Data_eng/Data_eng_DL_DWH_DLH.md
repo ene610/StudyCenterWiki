@@ -31,7 +31,7 @@ combina il meglio di entrambi i mondi: la capacità di archiviazione vasta, fles
 Un sistema ottimizzato per l’analisi e il reporting di dati **strutturati**, spesso relazionali (es. dati finanziari, di vendita, CRM).
 
 ### Caratteristiche
-- Schema rigido: *schema-on-write*
+- Schema rigido: *schema-on-write* (i dati devono rispettare uno schema prima di essere inseriti)
 - Performance ottimizzata per query SQL
 - Tecnologie: Amazon Redshift, Snowflake, Google BigQuery, Oracle
 
@@ -52,7 +52,7 @@ Un sistema ottimizzato per l’analisi e il reporting di dati **strutturati**, s
 Un archivio per grandi volumi di dati grezzi: strutturati, semi-strutturati e non strutturati (es. file CSV, log, immagini, JSON, dati IoT).
 
 ### Caratteristiche
-- Nessuno schema obbligatorio: *schema-on-read*
+- Nessuno schema obbligatorio: *schema-on-read* (lo schema viene applicato solo al momento della lettura)
 - Supporta dati non relazionali
 - Tecnologie tipiche: Hadoop, Amazon S3, Azure Data Lake
 
