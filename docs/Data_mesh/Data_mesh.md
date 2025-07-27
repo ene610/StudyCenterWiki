@@ -32,7 +32,7 @@ Il **Data Mesh** è un **modello organizzativo e architetturale** per la gestion
     
 2. **Dati come prodotto**
     
-    I dati non sono più solo un "output" tecnico, ma diventano **prodotti veri e propri**, curati, documentati, accessibili, affidabili — con qualcuno responsabile della loro qualità, proprio come un product owner.
+    I dati non sono più solo un "output" tecnico, ma diventano **prodotti veri e propri**, curati, documentati, accessibili, affidabili — con qualcuno responsabile (Data owner) della loro qualità, proprio come un product owner.
     
 3. **Piattaforma self-service**
     
